@@ -47,7 +47,7 @@
     "test": "tests"
   },
   "name": "@zouloux/test-typescript-npm",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zouloux/test-npm-typescript.git"
